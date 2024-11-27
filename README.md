@@ -96,3 +96,5 @@ Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan progra
      - if __name__ == "__main__":
        menu()
   - Bagian ini memastikan bahwa fungsi `menu()` hanya dijalankan jika file ini dieksekusi sebagai program utama, bukan diimpor sebagai modul.
+
+# Dan Berikut Pengrtian Dari Flowchart.
