@@ -111,3 +111,39 @@ Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan progra
 ![Screenshot 2024-11-27 192839](https://github.com/user-attachments/assets/24a1b19e-1442-4080-950f-33aba9a01159)
 
 # Komponen Flowchart
+![WhatsApp Image 2024-11-27 at 00 37 56](https://github.com/user-attachments/assets/244ef38e-a3c0-4c70-a927-0693a2d69638)
+
+# 1. Start: Titik awal dari program.
+# 2. Menu: Tampilkan menu utama dengan pilihan:
+  - Tambah Data
+  - Tampilkan Data
+  - Hapus Data
+  - Ubah Data
+  - Keluar
+# 3. Input Pilihan: Menerima input dari pengguna untuk memilih opsi menu.
+# 4. Proses Berdasarkan Pilihan:
+  - Jika Pilihan 1 (Tambah Data):
+     - Input nama dan nilai mahasiswa.
+     - Panggil fungsi `tambah(nama, nilai)` untuk menambahkan data.
+     - Kembali ke menu.
+  - Jika Pilihan 2 (Tampilkan Data):
+     - Panggil fungsi `tampilkan()` untuk menampilkan semua data mahasiswa.
+     - Kembali ke menu.
+     - Jika Pilihan 3 (Hapus Data):
+     - Input nama mahasiswa yang ingin dihapus.
+     - Panggil fungsi `hapus(nama)` untuk menghapus data.
+     - Kembali ke menu.
+  - Jika Pilihan 4 (Ubah Data):
+     - Input nama mahasiswa yang ingin diubah dan nilai baru.
+     - Panggil fungsi `ubah(nama, nilai_baru)` untuk mengubah data.
+     - Kembali ke menu.
+     - Jika Pilihan 5 (Keluar):
+     - Tampilkan pesan "Terima kasih!" dan akhiri program.
+# 5. Error Handling: Jika pilihan tidak valid, tampilkan pesan kesalahan dan kembali ke menu.
+# 6. nd: Titik akhir dari program ketika pengguna memilih untuk keluar.
+
+# Penjelasan Flowchart
+ - Start: Program dimulai.
+ - Tampilkan Menu: Menu ditampilkan kepada pengguna.
+ - Input Pilihan: Pengguna memilih opsi dari menu.
+ - Proses Berdasarkan Pilihan: Bergantung pada pilihan, program akan melakukan tindakan yang sesuai (menambah,
