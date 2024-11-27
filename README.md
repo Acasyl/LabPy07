@@ -99,3 +99,15 @@ Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan progra
 
 # Hasil Dari Run (Output)
 
+# Tambah Data
+![Screenshot 2024-11-27 192733](https://github.com/user-attachments/assets/75c69c96-00e6-46ca-b6c4-4efe7b6e07e0)
+# Tampilkan Data
+![Screenshot 2024-11-27 192747](https://github.com/user-attachments/assets/83f03c82-88a0-44e3-ad06-e011daa461ab)
+# Hapus Data
+![Screenshot 2024-11-27 192825](https://github.com/user-attachments/assets/8a6c9d57-a3b4-4739-b2b7-19c356d75728)
+# Ubah Data 
+![Screenshot 2024-11-27 192804](https://github.com/user-attachments/assets/879506a9-24f3-45ad-a2b9-b62552cb7c99)
+# Keluar
+![Screenshot 2024-11-27 192839](https://github.com/user-attachments/assets/24a1b19e-1442-4080-950f-33aba9a01159)
+
+# Komponen Flowchart
