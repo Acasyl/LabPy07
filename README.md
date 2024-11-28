@@ -100,18 +100,15 @@ Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan progra
 # Hasil Dari Run (Output)
 
 # Tambah Data
-![Cuplikan layar 2024-11-26 084153](https://github.com/user-attachments/assets/e3db8baf-8ab5-4022-9b4f-32d16111fbd1)
-
-
+![Cuplikan layar 2024-11-26 084026](https://github.com/user-attachments/assets/5bdc1f6d-9a07-4b3d-b21d-1f44650d2fdb)
 # Tampilkan Data
-![Screenshot 2024-11-27 192747](https://github.com/user-attachments/assets/83f03c82-88a0-44e3-ad06-e011daa461ab)
+![Cuplikan layar 2024-11-26 084106](https://github.com/user-attachments/assets/3febc779-4757-4e25-a5ad-d065567891d4)
 # Hapus Data
-![Screenshot 2024-11-27 192825](https://github.com/user-attachments/assets/8a6c9d57-a3b4-4739-b2b7-19c356d75728)
+![Cuplikan layar 2024-11-26 084153](https://github.com/user-attachments/assets/dc1c3d8d-c0a4-450b-a418-444dcfce3c35)
 # Ubah Data 
-![Screenshot 2024-11-27 192804](https://github.com/user-attachments/assets/879506a9-24f3-45ad-a2b9-b62552cb7c99)
+![Cuplikan layar 2024-11-26 085543](https://github.com/user-attachments/assets/43db4b70-4bde-464a-8e9f-ee629c90fbf8)
 # Keluar
-![Screenshot 2024-11-27 192839](https://github.com/user-attachments/assets/24a1b19e-1442-4080-950f-33aba9a01159)
-
+![Cuplikan layar 2024-11-25 123541](https://github.com/user-attachments/assets/f1b412cb-501d-4f19-b644-75103033547f)
 # Komponen Flowchart
 ![WhatsApp Image 2024-11-27 at 00 37 56](https://github.com/user-attachments/assets/244ef38e-a3c0-4c70-a927-0693a2d69638)
 
