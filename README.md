@@ -1,17 +1,17 @@
 # LabPy07
-# Tugas Pemrograman P10
+**Tugas Pemrograman P10**
 ![Screenshot 2024-11-27 193547](https://github.com/user-attachments/assets/d062a42f-891e-4dd5-8170-2d1ed2f2a1a8)
 ![Screenshot 2024-11-27 194124](https://github.com/user-attachments/assets/c55d6d8c-e288-4e1b-b3eb-2b452b56c723)
 ![Screenshot 2024-11-27 194220](https://github.com/user-attachments/assets/e734a66c-98b0-4df0-8424-cd4f74db11e2)
 
-# Penjelasan
+**Penjelasan**
 Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan program sederhana untuk mengelola data mahasiswa. Program ini memungkinkan pengguna untuk menambah, menampilkan, menghapus, dan mengubah data mahasiswa. Mari kita bahas setiap bagian dari kode tersebut:
 
-# 1. Daftar Mahasiswa
+**1. Daftar Mahasiswa**
     - mahasiswa = []
   - Ini adalah daftar (list) kosong yang digunakan untuk menyimpan data mahasiswa. Setiap mahasiswa akan disimpan sebagai dictionary (kamus) yang berisi nama dan nilai.
 
-# 2. Fungsi `tambah(nama, nilai)`
+**2. Fungsi `tambah(nama, nilai)`**
     - def tambah(nama, nilai):
           """Menambahkan data mahasiswa ke dalam daftar."""
           mahasiswa.append({"nama": nama, "nilai": nilai})
@@ -19,7 +19,7 @@ Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan progra
   - Fungsi ini menerima dua parameter, `nama`dan `nilai`, dan menambahkan data siswa baru ke dalam daftar `mahasiswa`. Setelah menambahkan data, fungsi ini akan mencetak 
     konfirmasi pesan.
 
-# 3. Fungsi `tampilkan()`
+ **3. Fungsi `tampilkan()`**
      - def tampilkan():
            """Menampilkan semua data mahasiswa."""
            if not mahasiswa:
@@ -32,7 +32,7 @@ Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan progra
   - Fungsi ini digunakan untuk menampilkan semua data siswa yang tersimpan. Jika tidak ada data, akan dicetak pesan bahwa tidak ada data siswa. Jika ada, akan mencetak 
     daftar pelajar beserta nilainya.
 
-# 4. Fungsi `hapus(nama)`
+**4. Fungsi `hapus(nama)`**
      -def hapus(nama):
           """Menghapus data mahasiswa berdasarkan nama."""
           global mahasiswa
@@ -45,7 +45,7 @@ Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan progra
   - Fungsi ini menghapus data siswa berdasarkan nama. Jika nama siswa ditemukan dalam daftar, data tersebut akan dihapus dan pesan konfirmasi akan ditampilkan. Jika tidak 
     ditemukan, akan tercetak pesan bahwa data tidak ada.
 
-# 5. Fungsiubah `(nama, nilai_baru)`
+ **5. Fungsiubah `(nama, nilai_baru)`**
      - def ubah(nama, nilai_baru):
            """Mengubah data mahasiswa berdasarkan nama."""
            for mhs in mahasiswa:
@@ -58,7 +58,7 @@ Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan progra
   - Fungsi ini digunakan untuk mengubah nilai siswa berdasarkan nama. Jika nama siswa ditemukan, nilai tersebut akan diperbarui dan konfirmasi pesan akan ditampilkan. Jika 
     tidak ditemukan, akan tercetak pesan bahwa data tidak ada.
 
-# 6. Fungsi `menu()`
+**6. Fungsi `menu()`**
      - def menu():
            """Menampilkan menu utama."""
            while True:
@@ -100,6 +100,7 @@ Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan progra
 # Hasil Dari Run (Output)
 
 # Tambah Data
+![Cuplikan layar 2024-11-26 084153](https://github.com/user-attachments/assets/0a2d6cb9-ed1b-4097-9b88-7d1c0f13318d)
 
 # Tampilkan Data
 ![Screenshot 2024-11-27 192747](https://github.com/user-attachments/assets/83f03c82-88a0-44e3-ad06-e011daa461ab)
