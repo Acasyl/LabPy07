@@ -100,7 +100,7 @@ Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan progra
 # Hasil Dari Run (Output)
 
 # Tambah Data
-![Screenshot 2024-11-27 192733](https://github.com/user-attachments/assets/75c69c96-00e6-46ca-b6c4-4efe7b6e07e0)
+
 # Tampilkan Data
 ![Screenshot 2024-11-27 192747](https://github.com/user-attachments/assets/83f03c82-88a0-44e3-ad06-e011daa461ab)
 # Hapus Data
