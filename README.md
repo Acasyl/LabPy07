@@ -100,7 +100,8 @@ Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan progra
 # Hasil Dari Run (Output)
 
 # Tambah Data
-![Cuplikan layar 2024-11-26 084153](https://github.com/user-attachments/assets/0a2d6cb9-ed1b-4097-9b88-7d1c0f13318d)
+![Cuplikan layar 2024-11-26 084153](https://github.com/user-attachments/assets/e3db8baf-8ab5-4022-9b4f-32d16111fbd1)
+
 
 # Tampilkan Data
 ![Screenshot 2024-11-27 192747](https://github.com/user-attachments/assets/83f03c82-88a0-44e3-ad06-e011daa461ab)
